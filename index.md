@@ -5,7 +5,16 @@ A little about me? I am currently a freshman at the University of Illinois at Ur
 I am pursuing a Bachelor's in the Fine Arts for Industrial Design, while attempting to pursue a minor in Computer Science.
 
 
-### Markdown
+## Experience? What's That?
+
+A designer without any type of portfolio is like a banana without its peel. It's still a banana, but you wouldn't really want to have anything to do with said banana.
+
+So below you will find links to two of my "enough to get by portfolio". 
+
+[Link](https://mustafa327.wixsite.com/mustafa)
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
