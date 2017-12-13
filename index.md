@@ -1,10 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome To My Humble Abode!
 
-You can use the [editor on GitHub](https://github.com/musydali/mustafa3/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A little about me? I am currently a freshman at the University of Illinois at Urbana-Champaign.
 
-My name is Mustafa Ali.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
