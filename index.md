@@ -41,6 +41,8 @@ There's really only three things that I would like to highlight under this speci
 
 ### Computer Science Experiences
 
+It was AP Computer Science during my sophomore year in high school which really sparked my interest. In high school, the main two languages I learned were Java and Lua. Lua is what we used for mobile app development and making games with Corona, which was a software developing kit. 
+
 
 
 
