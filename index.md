@@ -25,6 +25,17 @@ Within the design realm, I have extensive experience with Adobe After Effects, A
 
 Here is a YouTube Channel with two animations that I have worked on: [AMAX Studios](https://drive.google.com/drive/folders/0B7g8lYB6JbLdNXdsZ1RTSW9Objg?usp=sharing)
 
+### Professional Experience 
+
+There's really only three things that I would like to highlight under this specific category.
+
+1. China Cargo Airlines
+* Over the summer, I worked at O'Hare International Airport as the Load Planner for China Cargo Airlines.
+* It was my responsibility to make sure that the weight checks out and that the airplane would safely take-off and land after taking account it's zero-fuel weight, take-off weight, and the weight of all the cargo.
+* Along with that, it was my responsibility to ensure that there was not too much weight on one side or one end of the plane and avoiding disbalance of the plane.
+2. MUS-LIM Magazine
+3. Photographer 
+
 
 
 
