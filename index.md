@@ -11,7 +11,7 @@ A designer without any type of portfolio is like a banana without its peel. It's
 
 So below you will find links to two of my "enough to get by portfolio". 
 
-[Link](https://mustafa327.wixsite.com/mustafa)
+[My Website that was more Design Oriented:](https://mustafa327.wixsite.com/mustafa)
 
 
 
