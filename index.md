@@ -45,6 +45,15 @@ It was AP Computer Science during my sophomore year in high school which really 
 
 Through Java I was able to compete in conferences like Business Professionals of America, compete against great minds in the state, come out on top, and then go on to compete against more minds at the national level in various different states.
 
+## Contact Lens Solution
+
+Feel free to pigeon mail, snail mail, or owl mail me at any time.
+If you can get a hold of any of those animals, then tough luck.
+
+If you ever want to make a movie, animation, or want to design something, you can reach me at:
+* 630-935-0063
+* mustafa3@illinois.edu
+
 
 
 
