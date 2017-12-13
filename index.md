@@ -1,4 +1,4 @@
-![Image](https://drive.google.com/file/d/1xErhsgf4hVmYPPMmEDEbM1uK6OdaY8Ly/view)
+![Image](https://octodex.github.com/images/yaktocat.png)
 
 # Welcome To My Humble Abode!
 
