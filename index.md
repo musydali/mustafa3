@@ -1,4 +1,4 @@
-![Image](C:\Users\Mustafa Syed Ali\Desktop\Chair\_MG_7)
+![](https://drive.google.com/file/d/1zs3XdL6UjWA-HG9HP2j_r5_uEAvK_uP4/view)
 
 # Welcome To My Humble Abode!
 
