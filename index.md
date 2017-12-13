@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/32139832/33955567-9458488c-e001-11e7-9011-ae2d8d1beb2f.JPG)
 
 <p align="center">
-  ^*Two-Legged Chair That I Designed*^
+  *Two-Legged Chair That I Designed*
 </p>
 
 # Welcome To My Humble Abode!
