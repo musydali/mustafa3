@@ -23,7 +23,7 @@ Below you will find links to two of my "enough to get by portfolio".
 
 Within the design realm, I have extensive experience with Adobe After Effects, Adobe Photoshop, Adobe Premiere, and Autodesk Maya. When I'm not working on making videos or working with special effects, you can catch me working with 3D Models and 3D Animations. 
 
-Here is a YouTube Channel with two animations that I have worked on: [AMAX Studios] (https://drive.google.com/drive/folders/0B7g8lYB6JbLdNXdsZ1RTSW9Objg?usp=sharing)
+Here is a YouTube Channel with two animations that I have worked on: [AMAX Studios](https://drive.google.com/drive/folders/0B7g8lYB6JbLdNXdsZ1RTSW9Objg?usp=sharing)
 
 
 
