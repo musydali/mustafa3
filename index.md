@@ -2,6 +2,8 @@
 
 A little about me? I am currently a freshman at the University of Illinois at Urbana-Champaign.
 
+I am pursuing a Bachelor's in the Fine Arts for Industrial Design, while attempting to pursue a minor in Computer Science.
+
 
 ### Markdown
 
