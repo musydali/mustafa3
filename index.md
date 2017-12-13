@@ -17,7 +17,14 @@ A designer without any type of portfolio is like a banana without its peel. It's
 
 Below you will find links to two of my "enough to get by portfolio". 
 
-1. [Design Projects Website](https://mustafa327.wixsite.com/mustafa)
+1. [Design Projects](https://mustafa327.wixsite.com/mustafa)
 
 2. [Google Drive Folder With More of My Work](https://drive.google.com/drive/folders/0B7g8lYB6JbLdNXdsZ1RTSW9Objg?usp=sharing)
+
+Within the design realm, I have extensive experience with Adobe After Effects, Adobe Photoshop, Adobe Premiere, and Autodesk Maya. When I'm not working on making videos or working with special effects, you can catch me working with 3D Models and 3D Animations. 
+
+Here is a YouTube Channel with two animations that I have worked on: [AMAX Studios (https://drive.google.com/drive/folders/0B7g8lYB6JbLdNXdsZ1RTSW9Objg?usp=sharing)
+
+
+
 
