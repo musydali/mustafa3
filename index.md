@@ -1,4 +1,4 @@
-## Welcome To My Humble Abode!
+# Welcome To My Humble Abode!
 
 A little about me? I am currently a freshman at the University of Illinois at Urbana-Champaign.
 
