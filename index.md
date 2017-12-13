@@ -1,3 +1,5 @@
+[Image](https://drive.google.com/file/d/1xErhsgf4hVmYPPMmEDEbM1uK6OdaY8Ly/view)
+
 # Welcome To My Humble Abode!
 
 A little about me? I am currently a freshman at the University of Illinois at Urbana-Champaign.
@@ -11,26 +13,11 @@ A designer without any type of portfolio is like a banana without its peel. It's
 
 Below you will find links to two of my "enough to get by portfolio". 
 
-[Design Projects Website](https://mustafa327.wixsite.com/mustafa)
+1. [Design Projects Website](https://mustafa327.wixsite.com/mustafa)
 
-[Google Drive Folder With More of My Work](https://drive.google.com/drive/folders/0B7g8lYB6JbLdNXdsZ1RTSW9Objg?usp=sharing)
+2. [Google Drive Folder With More of My Work](https://drive.google.com/drive/folders/0B7g8lYB6JbLdNXdsZ1RTSW9Objg?usp=sharing)
 
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
