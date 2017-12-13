@@ -1,4 +1,4 @@
-[Image](https://drive.google.com/file/d/1xErhsgf4hVmYPPMmEDEbM1uK6OdaY8Ly/view)
+![Image](https://drive.google.com/file/d/1xErhsgf4hVmYPPMmEDEbM1uK6OdaY8Ly/view)
 
 # Welcome To My Humble Abode!
 
