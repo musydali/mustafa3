@@ -43,7 +43,7 @@ There's really only three things that I would like to highlight under this speci
 
 It was AP Computer Science during my sophomore year in high school which really sparked my interest. In high school, the main two languages I learned were Java and Lua. Lua is what we used for mobile app development and making games with Corona, which was a software developing kit. 
 
-
+Through Java I was able to compete in conferences like Business Professionals of America, compete against great minds in the state, come out on top, and then go on to compete against more minds at the national level in various different states.
 
 
 
