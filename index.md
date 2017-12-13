@@ -1,4 +1,4 @@
-![](https://drive.google.com/file/d/1zs3XdL6UjWA-HG9HP2j_r5_uEAvK_uP4/view)
+![](https://user-images.githubusercontent.com/32139832/33955567-9458488c-e001-11e7-9011-ae2d8d1beb2f.JPG)
 
 # Welcome To My Humble Abode!
 
