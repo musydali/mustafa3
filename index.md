@@ -10,7 +10,6 @@ A little about me? I am currently a freshman at the University of Illinois at Ur
 
 I am pursuing a Bachelor's in the Fine Arts for Industrial Design, while attempting to pursue a minor in Computer Science.
 
-
 ## Experience? What's That?
 
 A designer without any type of portfolio is like a banana without its peel. It's still a banana, but you wouldn't really want to have anything to do with said banana.
@@ -34,7 +33,15 @@ There's really only three things that I would like to highlight under this speci
 * It was my responsibility to make sure that the weight checks out and that the airplane would safely take-off and land after taking account it's zero-fuel weight, take-off weight, and the weight of all the cargo.
 * Along with that, it was my responsibility to ensure that there was not too much weight on one side or one end of the plane and avoiding disbalance of the plane.
 2. MUS-LIM Magazine
+* Currently I am on the team of a new publication on campus.
+* I am both on the design team for the publication and leader of the publicity team, helping create fliers, videos, and just spreading out name.
 3. Photographer 
+* What started off as a hobby in high school has slowly turned into something that is somewhat of a small "business".
+* While I do regular hobby photography, I have also started to do event photography both here on campus and back home in the suburbs of Chicago. 
+
+### Computer Science Experiences
+
+
 
 
 
