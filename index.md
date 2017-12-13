@@ -1,4 +1,4 @@
-![Image](https://octodex.github.com/images/yaktocat.png)
+![Image](C:\Users\Mustafa Syed Ali\Desktop\Chair\_MG_7)
 
 # Welcome To My Humble Abode!
 
