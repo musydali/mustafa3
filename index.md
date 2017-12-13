@@ -9,9 +9,10 @@ I am pursuing a Bachelor's in the Fine Arts for Industrial Design, while attempt
 
 A designer without any type of portfolio is like a banana without its peel. It's still a banana, but you wouldn't really want to have anything to do with said banana.
 
-So below you will find links to two of my "enough to get by portfolio". 
+Below you will find links to two of my "enough to get by portfolio". 
 
-[Design Website](https://mustafa327.wixsite.com/mustafa)
+[Design Projects Website](https://mustafa327.wixsite.com/mustafa)
+
 [Google Drive Folder With More of My Work](https://drive.google.com/drive/folders/0B7g8lYB6JbLdNXdsZ1RTSW9Objg?usp=sharing)
 
 
